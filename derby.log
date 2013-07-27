@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Tue May 28 16:56:24 CEST 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-013e-eba3-d94a-0000056e02d0 
+on database directory memory:C:\Users\mcamangi.ADRIALAB\Documents\NetBeansProjects\Memcached-Java-Client\SimpleSpringWithMemcached\LocalTest  with class loader sun.misc.Launcher$AppClassLoader@203ba002 
+Loaded from file:/C:/Users/mcamangi.ADRIALAB/.m2/repository/org/apache/derby/derby/10.9.1.0/derby-10.9.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_21-b11
+user.dir=C:\Users\mcamangi.ADRIALAB\Documents\NetBeansProjects\Memcached-Java-Client\SimpleSpringWithMemcached
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
